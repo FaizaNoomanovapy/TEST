@@ -1,0 +1,5 @@
+git init
+git add .
+git status
+git remote add origin <URL to reosiyory>
+git branch -M main
